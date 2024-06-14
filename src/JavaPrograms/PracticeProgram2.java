@@ -12,7 +12,7 @@ public class PracticeProgram2 {
         	 rev=rev+ s.charAt(i);
          }
 
-		System.out.print(rev);
+		System.out.print(rev +" is the revesrse string");
 
 
 
